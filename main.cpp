@@ -8,6 +8,7 @@ int main(int argc, char *argv[])
     DisplayThreadInfo("Test main");
 
     Test t;
+    mast ------------
 
     return a.exec();
 }
